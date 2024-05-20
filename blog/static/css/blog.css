@@ -1,0 +1,18 @@
+h1 a,
+h2 a {
+	color: #c25100;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 2em;
+}
+
+.post {
+	margin: 1em;
+}
+
+.post-timestamp {
+	color: #828282;
+	font-size: small;
+}
